@@ -41,3 +41,11 @@ ERROR in ./src/App.js 6:0-59
 Module not found: Error: Can't resolve './components/MainContainer' in '/home/kavia/workspace/code-generation/noteease-17213-5d23db58/note_app/src'
 
 webpack compiled with 1 error
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve './components/MainContainer' in '/home/kavia/workspace/code-generation/noteease-17213-5d23db58/note_app/src'
+ERROR in ./src/App.js 6:0-59
+Module not found: Error: Can't resolve './components/MainContainer' in '/home/kavia/workspace/code-generation/noteease-17213-5d23db58/note_app/src'
+
+webpack compiled with 1 error
